@@ -1,6 +1,6 @@
-# Onderzoek em en rem in CSS
+# Onderzoek em en rem in CSS 
 
-## om mee te spelen
+## om mee te spelen 
 
-Haal in de CSS de verschilende comments weg en kijk wat er dan gebeurd
-Zeer leerzaam.
+Haal in de CSS de verschillende comments weg en kijk wat er dan geberud.
+Zee leerzaam
